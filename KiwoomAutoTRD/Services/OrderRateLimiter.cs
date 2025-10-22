@@ -19,6 +19,7 @@ namespace KiwoomAutoTRD.Services
         private const int PER_SEC_LIMIT = 4;   // 요청: 초당 4회
         private const int PER_MIN_LIMIT = 90;  // 요청: 분당 90회
 
+
         /// <summary>호출 전 승인 시도. 승인되면 true, 한도 초과면 false.</summary>
         public static bool TryAcquire()
         {

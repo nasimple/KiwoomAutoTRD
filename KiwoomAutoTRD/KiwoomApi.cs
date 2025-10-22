@@ -353,6 +353,7 @@ namespace KiwoomAutoTRD
         }
 
 
+
         // === 조건식 결과(일괄) 등록: LIGHT→DEEP 이동(중복 금지, opt=1 금지) ===
         private void OnConditionResultBatch(string[] codes)
         {

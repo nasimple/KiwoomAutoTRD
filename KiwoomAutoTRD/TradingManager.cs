@@ -1758,7 +1758,6 @@ namespace KiwoomAutoTRD
             return rounded;
         }
 
-
         private static string Normalize(string code)
         {
             if (string.IsNullOrWhiteSpace(code)) return code;

@@ -80,6 +80,7 @@ namespace KiwoomAutoTRD.Services
                     }
                 }
 
+
                 // 미실현은 보유가 있을 때만 유지 (최근 갱신값 유지)
                 if (st.PositionQty <= 0) st.Unrealized = 0;
             }

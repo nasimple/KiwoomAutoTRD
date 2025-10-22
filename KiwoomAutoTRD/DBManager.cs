@@ -131,7 +131,6 @@ namespace KiwoomAutoTRD
             _queue.Add(line);
         }
 
-
         private void ConsumeQueue(CancellationToken token)
         {
             try

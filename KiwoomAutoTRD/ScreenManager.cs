@@ -196,6 +196,7 @@ namespace KiwoomAutoTRD
 
 
 
+
     // 중앙 정책/풀 등록소 모든 스크린을 큰 범위로 나누고 등록하는 역할
     public static class ScreenManager
     {

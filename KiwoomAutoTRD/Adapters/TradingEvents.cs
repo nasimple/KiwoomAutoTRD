@@ -41,5 +41,7 @@ namespace KiwoomAutoTRD.Adapters
         {
             try { evt?.Invoke(s); } catch { /* UI 오류 격리 */ }
         }
+
+
     }
 }

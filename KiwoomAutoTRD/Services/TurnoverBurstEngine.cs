@@ -30,6 +30,7 @@ namespace KiwoomAutoTRD.Services
         private volatile bool _running;
 
 
+
         // 실시간 스냅샷(라이트/딥 혼합 가능) — 거래대금/등락/가격을 통합 캐시
         private sealed class Snap
         {

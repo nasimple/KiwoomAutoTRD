@@ -232,6 +232,7 @@ namespace KiwoomAutoTRD.Services
                 EmaPer = ema
             };
 
+
             _onSignal(sig);
         }
     }

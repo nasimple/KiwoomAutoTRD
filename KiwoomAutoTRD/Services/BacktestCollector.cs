@@ -37,6 +37,7 @@ namespace KiwoomAutoTRD.Services
         public string CurrentRunDir { get { return _runDir; } }
 
 
+
         private DateTime _nextMidnightKst;  // 날짜 넘어가면 RunId 값 자동 갱신호출
 
         private readonly object _lock = new object();

@@ -84,6 +84,7 @@ namespace KiwoomAutoTRD.Services
             public static readonly int DeepWatchdogNoTickSec = 15;
         }
 
+
         // ====================== TurnoverBurst@v1 전략 파라미터 ======================
         public static class BurstTick
         {

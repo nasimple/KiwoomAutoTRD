@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace KiwoomAutoTRD
 {
+
     public class StockInfo
     {
         public string Code { get; set; }

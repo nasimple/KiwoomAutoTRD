@@ -27,7 +27,6 @@ namespace KiwoomAutoTRD
             Application.Run(main);
 
 
-
         }
     }
 }

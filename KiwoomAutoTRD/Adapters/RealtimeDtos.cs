@@ -19,6 +19,8 @@ namespace KiwoomAutoTRD.Adapters
         public int TradeQty { get; set; }          // FID 15 (단건 체결량)
         public DateTime TsUtc { get; set; }        // 수신시각(UTC)
     }
+    
+
 
     public sealed class ViEventDto
     {
