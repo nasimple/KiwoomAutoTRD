@@ -1007,7 +1007,6 @@ namespace KiwoomAutoTRD
         }
 
 
-
         #region --- 수집기 재로그인 시 활성화 되는 코드 START ----
         private void KiwoomApi_OnTradeTickToCollector(string code, int price, int qty, DateTime tsUtc)
         {
